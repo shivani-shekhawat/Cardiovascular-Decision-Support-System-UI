@@ -22,7 +22,7 @@ A lightweight API + UI application to compute ASCVD (Atherosclerotic Cardiovascu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ascvd-risk-calculator.git
+    git clone https://github.com/your-username/Cardiovascular-Decision-Support-System.git
     cd ascvd-risk-calculator
     ```
 
