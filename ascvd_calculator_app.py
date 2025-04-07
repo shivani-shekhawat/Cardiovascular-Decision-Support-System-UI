@@ -18,7 +18,7 @@ diabetic = st.radio("Is the patient diabetic?", ["Yes", "No"])
 smoker = st.radio("Is the patient a smoker?", ["Yes", "No"])
 
 if st.button("Calculate Risk Score"):
-    # NOTE: This is just a placeholder. You can connect it to your backend logic.
+    # NOTE: This is just a placeholder. I will connect it to my backend logic.
     risk_score = 7.5  # mock value
     st.success(f"Estimated 10-year ASCVD Risk: {risk_score}%")
     st.markdown("**Note:** This is a demo version. For clinical use, integrate with actual ASCVD algorithm.")
